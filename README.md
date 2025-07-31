@@ -35,7 +35,7 @@ These experiences have been both challenging and rewarding, and it’s deepened 
 
 
 <p align="center">
-  <a href="https://github.com/lee-H1208">
+  <a href="https://github.com/lee-H1208/doublet-detection">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee-H1208&hide_progress=true&theme=tokyonight"/>
   </a>
 </p>
@@ -44,7 +44,7 @@ These experiences have been both challenging and rewarding, and it’s deepened 
 
 ### 🤖 Image Classification on CIFAR-10 Dataset
 <p align="center">
-  <a href="https://github.com/lee-H1208">
+  <a href="https://github.com/lee-H1208/image-classification">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lee-H1208&repo=image-classification&theme=tokyonight"/>
   </a>
 </p>
@@ -59,7 +59,7 @@ These experiences have been both challenging and rewarding, and it’s deepened 
 
 ### 📊 Doublet Detection Analysis
 <p align="center">
-  <a href="https://github.com/lee-H1208">
+  <a href="https://github.com/lee-H1208/doublet-detection-analysis">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lee-H1208&repo=doublet-detection-analysis&theme=tokyonight"/>
   </a>
 </p>
