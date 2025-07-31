@@ -73,5 +73,5 @@ These experiences have been both challenging and rewarding, and it’s deepened 
 ## Contact Me
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/hannah-lee-leeh/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](hannahlee.leeh@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hannahlee.leeh@gmail.com)
 
