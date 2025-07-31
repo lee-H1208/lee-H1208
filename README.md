@@ -10,7 +10,7 @@ It's helped me build confidence in my technical skills and grow as a collaborato
 At the [McKinnon-Rosati Lab](https://you.stonybrook.edu/mckinnonrosati/), I’m currently leading a small project group working on a doublet detection model. 
 These experiences have been both challenging and rewarding, and it’s deepened my interest in applying machine learning to real-world problems!
 
-## Featured Project: Doublet Detection
+## 🧪 Featured Project: Doublet Detection
 
 <p align="center">
   <a href="https://github.com/lee-H1208">
@@ -42,6 +42,7 @@ These experiences have been both challenging and rewarding, and it’s deepened 
 
 ## Other Projects
 
+### 🤖 Image Classification on CIFAR-10 Dataset
 <p align="center">
   <a href="https://github.com/lee-H1208">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lee-H1208&repo=image-classification&theme=tokyonight"/>
@@ -54,7 +55,9 @@ These experiences have been both challenging and rewarding, and it’s deepened 
 
 **Result**: Achieved ~81.5% training accuracy and ~80.5% testing accuracy, demonstrating effective generalization with minimal overfitting on a multi-class image classification task.
 
+---
 
+### 📊 Doublet Detection Analysis
 <p align="center">
   <a href="https://github.com/lee-H1208">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lee-H1208&repo=doublet-detection-analysis&theme=tokyonight"/>
