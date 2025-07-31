@@ -31,5 +31,7 @@ These experiences have been both challenging and rewarding, and it’s deepened 
 
 ## Other Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lee-H1208&repo=Image-Classification&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lee-H1208&repo=Doublet-Detection-Analysis&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
