@@ -13,7 +13,7 @@ These experiences have been both challenging and rewarding, and it’s deepened 
 ## 🧪 Featured Project: Doublet Detection
 
 <p align="center">
-  <a href="https://github.com/lee-H1208">
+  <a href="https://github.com/lee-H1208/doublet-detection">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lee-H1208&repo=doublet-detection&theme=tokyonight"/>
   </a>
 </p>
@@ -35,7 +35,7 @@ These experiences have been both challenging and rewarding, and it’s deepened 
 
 
 <p align="center">
-  <a href="https://github.com/lee-H1208/doublet-detection">
+  <a href="https://github.com/lee-H1208">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee-H1208&hide_progress=true&theme=tokyonight"/>
   </a>
 </p>
