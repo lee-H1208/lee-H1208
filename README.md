@@ -6,7 +6,8 @@
 
 I’m driven, detail-oriented, and care deeply about the quality of my work, especially when it comes to research and machine learning projects.
 I'm grateful to be part of [Break Through Tech AI](https://www.breakthroughtech.org/), a program that supports women and other underrepresented groups in STEM. 
-It's helped me build confidence in my technical skills and grow as a collaborator. 
+It's helped me build confidence in my technical skills and grow as a collaborator. Through this program, I was matched with [Snowflake](https://www.snowflake.com/en/) to work as a fellow
+in a group project on a real-world ML project.
 At the [McKinnon-Rosati Lab](https://you.stonybrook.edu/mckinnonrosati/), I’m currently leading a small project group working on a doublet detection model. 
 These experiences have been both challenging and rewarding, and it’s deepened my interest in applying machine learning to real-world problems!
 
