@@ -26,7 +26,7 @@ These experiences have been both challenging and rewarding, and it’s deepened 
 
 **Result**: Achieved an overall accuracy of 86.5%, with balanced precision (57%) and recall (49.5%) across multiple benchmark datasets, demonstrating competitive performance and improved doublet detection reliability.
 
-## 🚌 Featured Project: Doublet Detection
+## 🚌 Featured Project: Brooklyn Transit Demand Dashboard
 
 <p align="center">
   <a href="https://github.com/Snowflake-1A-BreakThroughTech/AI-Studio-Project">
