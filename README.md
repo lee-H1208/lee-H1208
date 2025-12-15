@@ -26,6 +26,21 @@ These experiences have been both challenging and rewarding, and it’s deepened 
 
 **Result**: Achieved an overall accuracy of 86.5%, with balanced precision (57%) and recall (49.5%) across multiple benchmark datasets, demonstrating competitive performance and improved doublet detection reliability.
 
+## 🚌 Featured Project: Doublet Detection
+
+<p align="center">
+  <a href="https://github.com/Snowflake-1A-BreakThroughTech/AI-Studio-Project">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Snowflake-1A-BreakThroughTech&repo=AI-Studio-Project&theme=tokyonight&v=2"/>
+  </a>
+</p>
+
+
+**What We Did**: Developed a machine learning pipeline to forecast transit demand by ZIP code in Brooklyn based on projected population increases. Preprocessed real-world datasets (OSM, MTA, population data), calculated demand scores, and implemented a Streamlit dashboard to visualize demand patterns and transportation deserts.
+
+**Tools**: Python, Pandas, scikit-learn, HistGradientBoostingRegressor, Snowflake, PyDeck, Streamlit, Jupyter notebooks
+
+**Result**: Achieved a cross-validation R² of 0.739, highlighting areas of high transit demand. The dashboard provides actionable insights for urban planners and local authorities to identify underserved neighborhoods and allocate resources effectively.
+
 ## Tech Stack
 
 <p align="center">
