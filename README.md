@@ -15,7 +15,7 @@ These experiences have been both challenging and rewarding, and it’s deepened 
 
 <p align="center">
   <a href="https://github.com/lee-H1208/doublet-detection">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lee-H1208&repo=doublet-detection&theme=tokyonight&v=2"/>
+     <img src="profile/pin-doublet-detection.svg"/>
   </a>
 </p>
 
@@ -30,7 +30,7 @@ These experiences have been both challenging and rewarding, and it’s deepened 
 
 <p align="center">
   <a href="https://github.com/Snowflake-1A-BreakThroughTech/AI-Studio-Project">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Snowflake-1A-BreakThroughTech&repo=AI-Studio-Project&theme=tokyonight&v=2"/>
+     <img src="profile/pin-ai-studio-project.svg"/>
   </a>
 </p>
 
@@ -52,7 +52,7 @@ These experiences have been both challenging and rewarding, and it’s deepened 
 
 <p align="center">
   <a href="https://github.com/lee-H1208">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee-H1208&hide_progress=true&theme=tokyonight"/>
+     <img src="profile/top-langs.svg"/>
   </a>
 </p>
 
@@ -61,7 +61,7 @@ These experiences have been both challenging and rewarding, and it’s deepened 
 ### 🤖 Image Classification on CIFAR-10 Dataset
 <p align="center">
   <a href="https://github.com/lee-H1208/image-classification">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lee-H1208&repo=image-classification&theme=tokyonight"/>
+     <img src="profile/pin-image-classification.svg"/>
   </a>
 </p>
 
@@ -76,7 +76,7 @@ These experiences have been both challenging and rewarding, and it’s deepened 
 ### 📊 Doublet Detection Analysis
 <p align="center">
   <a href="https://github.com/lee-H1208/doublet-detection-analysis">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lee-H1208&repo=doublet-detection-analysis&theme=tokyonight"/>
+     <img src="profile/pin-doublet-analysis.svg"/>
   </a>
 </p>
 
