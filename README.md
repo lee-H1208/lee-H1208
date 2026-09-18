@@ -1,6 +1,6 @@
 # 🦆 Hi, I'm Hannah!
 ## About Me
-- 🏫 Junior majoring in Computer Science and Applied Mathematics and Statistics at the Honors College @ SBU
+- 🏫 Senior majoring in Computer Science and Applied Mathematics and Statistics at the Honors College @ SBU
 - 🌠 Passionate about all things machine learning
 - 🗽 Based in Queens, New York
 
