@@ -1,15 +1,15 @@
 # 🦆 Hi, I'm Hannah!
 ## About Me
-- 🏫 Senior majoring in Computer Science and Applied Mathematics and Statistics at the Honors College @ SBU
-- 🌠 Passionate about all things machine learning
+- 🏫 Senior majoring in Computer Science and Applied Mathematics & Statistics at the Honors College @ SBU (Expected Grad: May 2027)
+- 🌠 Passionate about machine learning, RAG systems, and AI engineering
 - 🗽 Based in Queens, New York
 
-I’m driven, detail-oriented, and care deeply about the quality of my work, especially when it comes to research and machine learning projects.
-I'm grateful to be part of [Break Through Tech AI](https://www.breakthroughtech.org/), a program that supports women and other underrepresented groups in STEM. 
-It's helped me build confidence in my technical skills and grow as a collaborator. Through this program, I was matched with [Snowflake](https://www.snowflake.com/en/) to work as a fellow
-in a group project on a real-world ML project.
-At the [McKinnon-Rosati Lab](https://you.stonybrook.edu/mckinnonrosati/), I’m currently leading a small project group working on a doublet detection model. 
-These experiences have been both challenging and rewarding, and it’s deepened my interest in applying machine learning to real-world problems!
+I’m driven, detail-oriented, and care deeply about the quality of my work, especially when it comes to research and machine learning projects. 
+
+Recently, I was a **Data Science Engineering Intern at AT&T**, where I built AI-powered network documentation tools using RAG, FastMCP, and Gradio. 
+
+I'm also grateful to have been part of **Break Through Tech AI**, completing ML coursework with Cornell Tech and building geospatial forecasting models with **Snowflake**. At the **McKinnon-Rosati Lab**, I lead a research group developing high-precision doublet detection machine learning pipelines for scRNA-seq data.
+
 ## 🧪 Featured Project: Doublet Detection
 
 <p align="center">
@@ -18,11 +18,13 @@ These experiences have been both challenging and rewarding, and it’s deepened 
   </a>
 </p>
 
-**What We Did**: Developed a lightweight machine learning pipeline combining unsupervised clustering and supervised classification (XGBoost) to detect doublets in single-cell RNA sequencing data. Preprocessed biological datasets, generated artificial doublets, extracted co-expression features, and trained models to distinguish singlets from doublets.
+**What We Did**: Led a team of 6 researchers to design an end-to-end Python pipeline combining unsupervised Leiden clustering and XGBoost classification to identify doublets in single-cell RNA sequencing data across 16 benchmark datasets (168K cells).
 
-**Tools**: Python, scikit-learn, XGBoost, Leiden clustering, PCA, Jupyter notebooks
+**Tools**: Python, scikit-learn, XGBoost, Leiden Clustering, PCA, Jupyter Notebooks
 
-**Result**: Achieved an overall accuracy of 86.5%, with balanced precision (57%) and recall (49.5%) across multiple benchmark datasets, demonstrating competitive performance and improved doublet detection reliability.
+**Result**: Matched field-standard performance (`scDblFinder`) on accuracy and precision while achieving a lower false positive rate (**5.5% vs 5.9%**).
+
+---
 
 ## 🚌 Featured Project: Brooklyn Transit Demand Dashboard
 
@@ -32,19 +34,39 @@ These experiences have been both challenging and rewarding, and it’s deepened 
   </a>
 </p>
 
-**What We Did**: Developed a machine learning pipeline to forecast transit demand by ZIP code in Brooklyn based on projected population increases. Preprocessed real-world datasets (OSM, MTA, population data), calculated demand scores, and implemented a Streamlit dashboard to visualize demand patterns and transportation deserts.
+**What We Did**: Engineered a geospatial ML pipeline processing 600K+ MTA, OpenStreetMap, and population records to forecast transit demand and healthcare accessibility gaps across Brooklyn ZIP codes under 5 population-growth scenarios.
 
-**Tools**: Python, Pandas, scikit-learn, HistGradientBoostingRegressor, Snowflake, PyDeck, Streamlit, Jupyter notebooks
+**Tools**: Python, SQL, Snowflake, HistGradientBoostingRegressor, Pandas, PyDeck, Streamlit
 
-**Result**: Achieved a cross-validation R² of 0.739, highlighting areas of high transit demand. The dashboard provides actionable insights for urban planners and local authorities to identify underserved neighborhoods and allocate resources effectively.
+**Result**: Achieved a cross-validation score of **0.739** and deployed an interactive dashboard with demand heatmaps and subway overlays for urban planning and site selection.
+
+---
+
+## 🏛️ Featured Project: VRA Repeal Ecological Inference & Redistricting Analysis
+
+<p align="center">
+  <a href="https://github.com/CSE416-Rockies/Rockies-VRA-Repeal-Analysis">
+     <img src="https://github-stats-extended.vercel.app/api/pin/?username=CSE416-Rockies&repo=Rockies-VRA-Repeal-Analysis&theme=tokyonight" alt="Rockies VRA Repeal Analysis Pin" />
+  </a>
+</p>
+
+**What We Did**: Built an analytical software tool to evaluate voting pattern changes, racially polarized voting (RPV), and legislative redistricting impacts using Ecological Inference (EI) and Gingles non-linear regression models.
+
+**Tools**: Python, PyEI, Spring Boot, MongoDB, JavaScript, React, GIS Data Processing
+
+**Result**: Successfully modeled voting turnout and candidate preference metrics across demographic splits to quantify the structural impacts of the repeal of the Voting Rights Act on electoral maps.
+
+---
 
 ## Tech Stack
 
 <p align="center">
   <a href="https://github.com/lee-H1208">
-     <img src="https://skillicons.dev/icons?i=java,latex,c" alt="Tech Stack Icons" />
+     <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,latex,tensorflow,sklearn,git,vscode,linux" alt="Tech Stack Icons" />
   </a>
 </p>
+
+---
 
 ## Other Projects
 
@@ -55,11 +77,11 @@ These experiences have been both challenging and rewarding, and it’s deepened 
   </a>
 </p>
 
-**What We Did**: Built and trained a convolutional neural network (CNN) using TensorFlow on the CIFAR-10 dataset for image classification. Preprocessed data by normalizing pixel values, designed a 4-layer CNN with batch normalization and dropout, and optimized hyperparameters using grid search to improve model accuracy.
+**What We Did**: Built and trained a 4-layer Convolutional Neural Network (CNN) with batch normalization, dropout, and grid search hyperparameter tuning on CIFAR-10.
 
-**Tools**: Python, TensorFlow, Keras, CIFAR-10 dataset
+**Tools**: Python, TensorFlow, Keras
 
-**Result**: Achieved ~81.5% training accuracy and ~80.5% testing accuracy, demonstrating effective generalization with minimal overfitting on a multi-class image classification task.
+**Result**: Achieved ~81.5% training accuracy and ~80.5% testing accuracy with minimal overfitting.
 
 ---
 
@@ -70,11 +92,13 @@ These experiences have been both challenging and rewarding, and it’s deepened 
   </a>
 </p>
 
-**What We Did**: Compared and evaluated six doublet detection methods on single-cell RNA sequencing datasets. Oversaw integration of code for multiple tools, designed experiments to generate artificial doublets, and conducted re-analyses to assess method biases and robustness.
+**What We Did**: Benchmark comparison evaluating 6 scRNA-seq doublet detection methods (scDblFinder, Scrublet, COMPOSITE, DoubletDetection) across artificial doublet generation and re-analysis experiments.
 
-**Tools**: Python, R, Jupyter Notebooks, scDblFinder, Scrublet, COMPOSITE, DoubletDetection, and data visualization libraries.
+**Tools**: Python, R, scDblFinder, Scrublet, COMPOSITE, DoubletDetection
 
-**Results**: Identified strengths and limitations of current doublet detection methods, highlighting areas for improvement. Findings will help guide users and inform future development of more accurate and robust doublet detection tools.
+**Results**: Quantified method biases and performance tradeoffs to inform single-cell benchmark tool selection.
+
+---
 
 ## Contact Me
 
