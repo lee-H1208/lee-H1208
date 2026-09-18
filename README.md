@@ -10,15 +10,13 @@ It's helped me build confidence in my technical skills and grow as a collaborato
 in a group project on a real-world ML project.
 At the [McKinnon-Rosati Lab](https://you.stonybrook.edu/mckinnonrosati/), I’m currently leading a small project group working on a doublet detection model. 
 These experiences have been both challenging and rewarding, and it’s deepened my interest in applying machine learning to real-world problems!
-
 ## 🧪 Featured Project: Doublet Detection
 
 <p align="center">
   <a href="https://github.com/lee-H1208/doublet-detection">
-     <img src="profile/pin-doublet-detection.svg"/>
+     <img src="https://github-stats-extended.vercel.app/api/pin/?username=lee-H1208&repo=doublet-detection&theme=tokyonight" alt="Doublet Detection Pin" />
   </a>
 </p>
-
 
 **What We Did**: Developed a lightweight machine learning pipeline combining unsupervised clustering and supervised classification (XGBoost) to detect doublets in single-cell RNA sequencing data. Preprocessed biological datasets, generated artificial doublets, extracted co-expression features, and trained models to distinguish singlets from doublets.
 
@@ -30,10 +28,9 @@ These experiences have been both challenging and rewarding, and it’s deepened 
 
 <p align="center">
   <a href="https://github.com/Snowflake-1A-BreakThroughTech/AI-Studio-Project">
-     <img src="profile/pin-ai-studio-project.svg"/>
+     <img src="https://github-stats-extended.vercel.app/api/pin/?username=Snowflake-1A-BreakThroughTech&repo=AI-Studio-Project&theme=tokyonight" alt="AI Studio Project Pin" />
   </a>
 </p>
-
 
 **What We Did**: Developed a machine learning pipeline to forecast transit demand by ZIP code in Brooklyn based on projected population increases. Preprocessed real-world datasets (OSM, MTA, population data), calculated demand scores, and implemented a Streamlit dashboard to visualize demand patterns and transportation deserts.
 
@@ -45,14 +42,7 @@ These experiences have been both challenging and rewarding, and it’s deepened 
 
 <p align="center">
   <a href="https://github.com/lee-H1208">
-     <img src="https://skillicons.dev/icons?i=java,latex,c"/>
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/lee-H1208">
-     <img src="profile/top-langs.svg"/>
+     <img src="https://skillicons.dev/icons?i=java,latex,c" alt="Tech Stack Icons" />
   </a>
 </p>
 
@@ -61,7 +51,7 @@ These experiences have been both challenging and rewarding, and it’s deepened 
 ### 🤖 Image Classification on CIFAR-10 Dataset
 <p align="center">
   <a href="https://github.com/lee-H1208/image-classification">
-     <img src="profile/pin-image-classification.svg"/>
+     <img src="https://github-stats-extended.vercel.app/api/pin/?username=lee-H1208&repo=image-classification&theme=tokyonight" alt="Image Classification Pin" />
   </a>
 </p>
 
@@ -76,7 +66,7 @@ These experiences have been both challenging and rewarding, and it’s deepened 
 ### 📊 Doublet Detection Analysis
 <p align="center">
   <a href="https://github.com/lee-H1208/doublet-detection-analysis">
-     <img src="profile/pin-doublet-analysis.svg"/>
+     <img src="https://github-stats-extended.vercel.app/api/pin/?username=lee-H1208&repo=doublet-detection-analysis&theme=tokyonight" alt="Doublet Detection Analysis Pin" />
   </a>
 </p>
 
@@ -90,4 +80,3 @@ These experiences have been both challenging and rewarding, and it’s deepened 
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/hannah-lee-leeh/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hannahlee.leeh@gmail.com)
-
